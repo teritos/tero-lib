@@ -1,0 +1,6 @@
+ipython
+numpy
+imagehash
+#scikit-image
+#boto3
+#scipy

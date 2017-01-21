@@ -1,0 +1,15 @@
+README.rst
+setup.cfg
+setup.py
+libtero/__init__.py
+libtero/aws.py
+libtero/deep.py
+libtero/images.py
+libtero/rekognition.py
+libtero/tero.py
+libtero.egg-info/PKG-INFO
+libtero.egg-info/SOURCES.txt
+libtero.egg-info/dependency_links.txt
+libtero.egg-info/not-zip-safe
+libtero.egg-info/requires.txt
+libtero.egg-info/top_level.txt
